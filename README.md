@@ -6,4 +6,7 @@ Collection of Python lessons includes:
 
 * Finished the lesson on the Luhn Algorithm - 2026-06-03. 
 
-* lambda_functions_expense_tracker.py - 2026-06-04.
+* Lambda Functions via Expense Tracker - 2026-06-04.
+
+* Comprehending List Comprehensions... comprende? - 2026-06-04.
+
